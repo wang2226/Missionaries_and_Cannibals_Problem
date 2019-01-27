@@ -7,7 +7,11 @@ How can the boat be used to safely carry all the missionaries and cannibals acro
 
 ###  Iterative Deepening Depth-First Search
 $ python dfs.py
+
 ![Alt text](https://i.ibb.co/JqH1RFK/Screen-Shot-2019-01-27-at-5-25-32-PM.jpg)
+
 #### A-Star Search
 $ python astar.py
+
 ![Alt text](https://i.ibb.co/JqH1RFK/Screen-Shot-2019-01-27-at-5-25-32-PM.jpg)
+
